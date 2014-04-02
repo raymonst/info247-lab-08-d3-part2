@@ -1,4 +1,4 @@
-#INFO 247 Lab 07: D3.js part 1
+#INFO 247 Lab 08: D3.js part 2
 
 ##Instructions
 
